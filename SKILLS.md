@@ -41,4 +41,6 @@ Anthropic (AI) · WordPress on `thekpihub.com` · (SerpAPI, Telegram are pipelin
 
 ## Status
 Smallest, cleanest repo. Main open item: reconcile the duplicate/divergent
-pipeline between this repo and the website.
+pipeline between this repo and the website (canonical-source decision pending).
+
+_Last updated: 2026-06-28 (post-consolidation)._
